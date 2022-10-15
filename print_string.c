@@ -2,13 +2,6 @@
 #include <unistd.h>
 #include <stdarg.h>
 
-/**
- * print_string - print string.
- *
- * @args: argument.
- *
- * Return: character count.
- */
 
 int print_string(va_list args)
 {
