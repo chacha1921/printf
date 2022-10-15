@@ -1,13 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 
-/**
- * print_digit - print integers.
- *
- * @args: argument.
- *
- * Return: count of chars.
- */
+
 
 int print_digit(va_list args)
 {
