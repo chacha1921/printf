@@ -1,13 +1,6 @@
 #include "main.h"
 
-/**
- * get_function - function specifiers.
- *
- * @con_spec: Conversion specifiers.
- * @args: arguments.
- *
- * Return: char count.
- */
+
 
 int get_function(char con_spec, va_list args)
 {
