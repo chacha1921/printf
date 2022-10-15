@@ -1,9 +1,5 @@
 #include "main.h"
-/**
- * print_rev_string - Print reverses string.
- * @args: Arguments
- * Return: Lenght of the output
- */
+
 int print_rev_string(va_list args)
 {
 
