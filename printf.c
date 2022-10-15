@@ -1,12 +1,6 @@
 #include "main.h"
 #include <unistd.h>
-/**
- * _printf - Emulate the original.
- *
- * @format: Format by specifier.
- *
- * Return: count of chars.
- */
+
 int _printf(const char *format, ...)
 {
 	int i = 0, count = 0, count_fun;
